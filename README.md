@@ -24,10 +24,8 @@ Estudiante de la Universidad Politecnica de Chiapas.
 
 ### Puntos fuertes:
 
-*  **Gaming:** Optimizo juegos para dispositivos de bajos recursos, 
+*  **Gaming:** Optimizo juegos para dispositivos de bajos recursos. 
 *  **Hardware:** Buen conocimiento en el tema de Hardware tanto en PCs, Laptops, Moviles y Consolas.
-*  **Filosofía:** "Hare que hasta una NVIDIA GT logre correrlo.".
-
 ---
 
 ###  Perfiles:
