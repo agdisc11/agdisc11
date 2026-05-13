@@ -10,8 +10,8 @@ My goals are to participate in the development of video games and software, and 
 
 ### Experiencia:
 
-* **Lenguajes/Lenguages:** C, C++, Python, LaTeX.
-* **Sistemas Operativos que he usado/ OS that i used before:** Linux (Arch)(Garuda)(Ubuntu)(mint), Windows y MAC.
+* **Lenguajes/Lenguages:** C, C++, Python, Java, JavaScript, Node.js, MySQL y LaTeX.
+* **Sistemas Operativos que he usado/ OS that i used before:** Linux (Arch)(Garuda)(Ubuntu)(mint)(Fedora), Windows y MAC.
 * **Proyectos en donde he aportado/projects where I have participated:** Omori Reprise(Mod)
 
 ---
