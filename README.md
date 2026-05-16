@@ -41,7 +41,7 @@ estado:       Estudiante activo 📚
 <table>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Rasmus_-_Black_Roses.jpg/220px-The_Rasmus_-_Black_Roses.jpg" width="90" style="border-radius:10px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/35/Justify_%28The_Rasmus_song%29.jpg" width="90" style="border-radius:10px"/>
     </td>
     <td align="left">
       &nbsp;&nbsp;<b>Now Playing</b><br/>
