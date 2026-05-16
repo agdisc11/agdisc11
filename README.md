@@ -116,7 +116,7 @@ estado:       Estudiante activo 📚
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 </a>
 &nbsp;
-<a href="https://x.com/Hatsune_110806">
+<a href="https://x.com/Agdii_miku">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
 </a>
 &nbsp;
