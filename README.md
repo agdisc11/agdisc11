@@ -67,7 +67,7 @@ estado:       Estudiante activo 📚
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
 | 🎮 **Omori Reprise (Mod)** | Mod para el videojuego OMORI — contribución activa al proyecto | ✅ Contribuidor |
-| 🐾 **VetApp** | Sistema de gestión para clínica veterinaria (Full Stack) | 🔨 En desarrollo |
+| 🐾 **ANA-Vet** | Sistema de gestión para clínica veterinaria (Full Stack) | 🔨 En desarrollo |
 
 </div>
 
@@ -80,7 +80,7 @@ estado:       Estudiante activo 📚
 ```
 🎮  Gaming          →  Optimizo juegos para dispositivos de bajos recursos
 🔧  Hardware        →  PCs · Laptops · Móviles · Consolas
-🐧  Linux Power     →  Arch · Garuda · Ubuntu · Mint · Fedora
+🐧  Linux     →  Arch · Garuda · Ubuntu · Mint · Fedora
 ⚡  Problem Solver  →  Me encanta resolver problemas complejos
 ```
 
