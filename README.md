@@ -34,6 +34,28 @@ estado:       Estudiante activo 📚
 
 ---
 
+## 🎵 Now Playing
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Rasmus_-_Black_Roses.jpg/220px-The_Rasmus_-_Black_Roses.jpg" width="90" style="border-radius:10px"/>
+    </td>
+    <td align="left">
+      &nbsp;&nbsp;<b>Now Playing</b><br/>
+      &nbsp;&nbsp;<b>Justify</b> — The Rasmus<br/>
+      &nbsp;&nbsp;<sub>Black Roses · 2008</sub><br/>
+      &nbsp;&nbsp;<img src="https://img.shields.io/badge/-Now%20Playing-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
