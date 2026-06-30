@@ -19,22 +19,22 @@
 
 ---
 
-## 🧑‍💻 Sobre mí / About Me
+## Sobre mí / About Me
 
 ```yaml
 nombre:       Agdiel Saldaña Capetillo
 ubicación:    Chiapas, México 🇲🇽
 universidad:  Universidad Politécnica de Chiapas
 carrera:      Tecnologías de la Información e Innovación Digital
-estado:       Estudiante activo 📚
+estado:       Estudiante activo 
 ```
 
-> 🎯 **Mi mayor meta:** Algún día trabajar para **Valve** y contribuir al desarrollo de videojuegos que impacten al mundo.  
-> 🎯 **My biggest goal:** One day work for **Valve** and contribute to game development that impacts the world.
+>  **Mi mayor meta:** Algún día trabajar para **Valve** y contribuir al desarrollo de videojuegos que impacten al mundo.  
+>  **My biggest goal:** One day work for **Valve** and contribute to game development that impacts the world.
 
 ---
 
-## 🎵 Now Playing
+##  Now Playing
 
 <div align="center">
 
@@ -56,11 +56,11 @@ estado:       Estudiante activo 📚
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Lenguajes / Languages
+###  Lenguajes / Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +70,7 @@ estado:       Estudiante activo 📚
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🖥️ Sistemas Operativos / Operating Systems
+###  Sistemas Operativos / Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -82,35 +82,35 @@ estado:       Estudiante activo 📚
 
 ---
 
-## 🚀 Proyectos Destacados / Featured Projects
+##  Proyectos Destacados / Featured Projects
 
 <div align="center">
 
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
-| 🎮 **Omori Reprise (Mod)** | Mod para el videojuego OMORI — contribución activa al proyecto | ✅ Contribuidor |
-| 🐾 **ANA-Vet** | Sistema de gestión para clínica veterinaria (Full Stack) | 🔨 En desarrollo |
+|  **Omori Reprise (Mod)** | Mod para el videojuego OMORI — contribución activa al proyecto |  Contribuidor |
+|  **ANA-Vet** | Sistema de gestión para clínica veterinaria (Full Stack) |  En desarrollo |
 
 </div>
 
 ---
 
-## 💪 Puntos Fuertes / Strengths
+##  Puntos Fuertes / Strengths
 
 <div align="center">
 
 ```
 🎮  Gaming          →  Optimizo juegos para dispositivos de bajos recursos
-🔧  Hardware        →  PCs · Laptops · Móviles · Consolas
-🐧  Linux     →  Arch · Garuda · Ubuntu · Mint · Fedora
-⚡  Problem Solver  →  Me encanta resolver problemas complejos
+  Hardware        →  PCs · Laptops · Móviles · Consolas
+  Linux     →  Arch · Garuda · Ubuntu · Mint · Fedora
+  Problem Solver  →  Me encanta resolver problemas complejos
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -126,7 +126,7 @@ estado:       Estudiante activo 📚
 
 ---
 
-## 🌐 Encuéntrame / Find Me
+##  Encuéntrame / Find Me
 
 <div align="center">
 
@@ -161,6 +161,6 @@ estado:       Estudiante activo 📚
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<sub>⭐ <i>"Malditos Normies! -Ana."</i> ⭐</sub>
+<sub> <i>"Malditos Normies! -Ana."</i> </sub>
 
 </div>
