@@ -102,9 +102,9 @@ hobby:        Optimizar juegos hasta en una papa
 
 |  Proyecto |  Descripción |  Tech |  Estado |
 |:---|:---|:---:|:---:|
-|  **[SGCP](https://github.com/agdisc11/SGCP)** | Sistema de Gestión de Clínica Pediátrica — gestión completa de pacientes, citas y expedientes médicos | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 🟢 Activo |
+|  **[SGCP](https://github.com/agdisc11/SGCP)** | Sistema de Gestión de Clínica Pediátrica — gestión completa de pacientes, citas y expedientes médicos | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |  Activo |
 |  **[ANA-Vet](https://github.com/agdisc11/ANA-vet)** | Sistema de gestión para clínica veterinaria (Full Stack) | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  En desarrollo |
-|  **Omori Reprise (Mod)** | Mod para el videojuego OMORI — contribución activa al proyecto | ![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-8B0000?style=flat-square) | 🤝 Contribuidor |
+|  **Omori Reprise (Mod)** | Mod para el videojuego OMORI — contribución activa al proyecto | ![RPG Maker](https://img.shields.io/badge/-RPG%20Maker-8B0000?style=flat-square) |  Contribuidor |
 
 </div>
 
@@ -125,13 +125,9 @@ hobby:        Optimizar juegos hasta en una papa
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=agdisc11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdisc11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
 
 <br/><br/>
 
